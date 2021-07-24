@@ -1,2 +1,2 @@
 # KNN-Wine
-Applied KNN on Wine dataser
+Applied KNN on Wine dataset
